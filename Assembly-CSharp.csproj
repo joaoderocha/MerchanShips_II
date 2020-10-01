@@ -68,13 +68,15 @@
     <Compile Include="Assets\FollowingCamera.cs" />
     <Compile Include="Assets\Scripts\CartoonWater.cs" />
     <Compile Include="Assets\Scripts\Floater.cs" />
+    <Compile Include="Assets\Scripts\MultipleWaves.cs" />
+    <Compile Include="Assets\Scripts\PhysicsHelper.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\WaterManagement.cs" />
     <Compile Include="Assets\Scripts\WaveManagement.cs" />
+    <Compile Include="Assets\Scripts\movementScript.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\WaveDisplay.cs" />
     <Compile Include="Assets\WaveSingleton.cs" />
-    <Compile Include="Assets\movementScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
